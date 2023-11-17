@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 // Modify PETNAME with the names of the pets you want to protect (properly spelled and capitalized!)
-var pets = ["PETNAME", "PETNAME", "PETNAME"];
+var pets = ["Explosiac", "Tuskaninny_20136", "rogaidium", "ruufiy", "Krawkaisian", "pumi216", "Fanny_1234", "plumbumb"];
 
 // List of Dangerous Items that can alter pet color/species
 var dangerousItems = [
